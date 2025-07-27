@@ -1,0 +1,14 @@
+{
+    "servername": "mysql.examrevision.online",
+    "port": 3306,
+    "username": "examrevision",
+    "password": "f3oHCjb7*1",
+    "dbname": "examrevision",
+    "api": "http://localhost",
+    "smtpServer": "smtp.dreamhost.com",
+    "smtpPort": 465,
+    "smtpUser": "server@examrevision.online",
+    "smtpPass": "EnPc&rQB9Quwzt4t",
+    "smtpFrom": "Exam Revision Online Server",
+    "smtpFromEmail": "server@examrevision.online"
+}
